@@ -12,6 +12,7 @@ Repo for the Machine Learning introduction workshop
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+
 * [Students notebook](https://colab.research.google.com/github/abdelrahman-ayad/MiCM-introML-W21/blob/main/notebooks/DecisionTrees_Students.ipynb)
 <a href="https://colab.research.google.com/github/abdelrahman-ayad/MiCM-introML-W21/blob/main/notebooks/DecisionTrees_Students.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
